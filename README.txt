@@ -1,0 +1,1 @@
+This respository is owned and maintained by members of the Computer Science Organization at East Stroudsburg University. It is intended to be used as a way to track the recipes and ingredients used to make any baked goods sold at the CSO bake sales.
